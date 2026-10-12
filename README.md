@@ -14,7 +14,8 @@ I design, automate, and secure AWS infrastructure for government and regulated e
 | Project | What it shows | Status |
 |---|---|---|
 | [Secure multi-account foundation](https://github.com/ikebarnes/aws-secure-landing-zone) | Organizations, SCP guardrails, IAM Identity Center SSO, org CloudTrail, GuardDuty | ✅ Complete |
-| Highly available 3-tier app | Terraform modules, VPC, ALB, Auto Scaling, RDS, Ansible | ⏳ Next |
+| [Highly available 3-tier app](https://github.com/ike-barnes/aws-3tier-terraform) | Multi-AZ VPC, ALB, Auto Scaling, RDS + KMS, WAF, Packer golden AMI, measured failover and restore | ✅ Complete |
+| Secure CI/CD for infrastructure | GitHub Actions with OIDC, Checkov, tfsec, approval gates | ⏳ Next |
 
 ## Tools
 AWS · Terraform · Ansible · Docker · Kubernetes (EKS) · GitHub Actions · CloudWatch · Splunk · Grafana · Linux · Windows Server
