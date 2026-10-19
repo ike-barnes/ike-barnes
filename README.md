@@ -1,14 +1,42 @@
-# Isaac J. Barnes: Cloud Engineer
+Hi, I'm Isaac Barnes 👋
 
-I design, automate, and secure AWS infrastructure for government and regulated environments.
-7+ years across systems administration and cloud engineering.
+AWS Cloud Engineer | Cloud Security | DevSecOps | Terraform | Python | AWS Automation | Linux | Infrastructure as Code (IaC)
 
-**Certifications:** AWS Solutions Architect – Associate · CompTIA Security+
+I'm an AWS Cloud Engineer with 8+ years of experience in cloud infrastructure, security automation, systems administration, and DevSecOps across enterprise and regulated environments.
 
-## What I've done in production 
-- Converted manual environments to Terraform, cutting provisioning from days to hours.
-- Automated operations with Bash, Python, and PowerShell, cutting overhead by 40%.
-- Rolled out SSO to all employees; remediated vulnerabilities across 200+ systems (NIST, FISMA, RMF).
+I focus on designing reliable platforms, automating infrastructure, troubleshooting production incidents, improving service availability, securing workloads, and controlling cloud costs.
+
+🛠️ Technical Skills
+
+Cloud: AWS, AWS Organizations, Control Tower, IAM, VPC, EC2, S3, Lambda
+
+Infrastructure as Code: Terraform, CloudFormation, Ansible
+
+Automation & Scripting: Python, Boto3, Bash, PowerShell
+
+Cloud Security: GuardDuty, Security Hub, AWS Config, KMS, Secrets Manager, IAM
+
+Containers & CI/CD: Docker, Amazon EKS, Jenkins, AWS CodePipeline
+
+Monitoring: CloudWatch, Splunk, Prometheus, Grafana
+
+Systems Administration: Linux, RHEL, Windows Server, VMware
+
+Compliance: NIST 800-53, FISMA, RMF, SOX, PCI DSS, CIS Benchmarks, DISA STIG
+
+🚀 Areas of Interest
+
+AWS cloud security and governance
+
+Terraform modules and secure infrastructure automation
+
+Python and Boto3 cloud automation
+
+DevSecOps and CI/CD security
+
+Linux system administration and hardening
+
+Cloud monitoring, incident response, and vulnerability remediation
 
 ## Portfolio projects
 | Project | What it shows | Status |
