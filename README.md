@@ -20,4 +20,4 @@ I design, automate, and secure AWS infrastructure for government and regulated e
 ## Tools
 AWS · Terraform · Ansible · Docker · Kubernetes (EKS) · GitHub Actions · CloudWatch · Splunk · Grafana · Linux · Windows Server
 
-📫 [LinkedIn](https://linkedin.com/in/ike-barnes) · barnesjisaac@outlook.com
+📫 [LinkedIn](https://linkedin.com/in/ike-barnes) · isaacbarnes714@gmail.com
