@@ -1,5 +1,5 @@
 
-# Hi, I'm Isaac Barnes 👋
+# Hi, I'm Isaac J. Barnes 👋
 
 ### AWS Cloud Engineer | Cloud Security | DevSecOps | Terraform | Python | Linux
 
