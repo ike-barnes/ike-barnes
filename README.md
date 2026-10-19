@@ -8,35 +8,35 @@ I focus on designing reliable platforms, automating infrastructure, troubleshoot
 
 🛠️ Technical Skills
 
-Cloud: AWS, AWS Organizations, Control Tower, IAM, VPC, EC2, S3, Lambda
+. Cloud: AWS, AWS Organizations, Control Tower, IAM, VPC, EC2, S3, Lambda
 
-Infrastructure as Code: Terraform, CloudFormation, Ansible
+. Infrastructure as Code: Terraform, CloudFormation, Ansible
 
-Automation & Scripting: Python, Boto3, Bash, PowerShell
+. Automation & Scripting: Python, Boto3, Bash, PowerShell
 
-Cloud Security: GuardDuty, Security Hub, AWS Config, KMS, Secrets Manager, IAM
+. Cloud Security: GuardDuty, Security Hub, AWS Config, KMS, Secrets Manager, IAM
 
-Containers & CI/CD: Docker, Amazon EKS, Jenkins, AWS CodePipeline
+. Containers & CI/CD: Docker, Amazon EKS, Jenkins, AWS CodePipeline
 
-Monitoring: CloudWatch, Splunk, Prometheus, Grafana
+. Monitoring: CloudWatch, Splunk, Prometheus, Grafana
 
-Systems Administration: Linux, RHEL, Windows Server, VMware
+. Systems Administration: Linux, RHEL, Windows Server, VMware
 
-Compliance: NIST 800-53, FISMA, RMF, SOX, PCI DSS, CIS Benchmarks, DISA STIG
+. Compliance: NIST 800-53, FISMA, RMF, SOX, PCI DSS, CIS Benchmarks, DISA STIG
 
 🚀 Areas of Interest
 
-AWS cloud security and governance
+. AWS cloud security and governance
 
-Terraform modules and secure infrastructure automation
+. Terraform modules and secure infrastructure automation
 
-Python and Boto3 cloud automation
+. Python and Boto3 cloud automation
 
-DevSecOps and CI/CD security
+. DevSecOps and CI/CD security
 
-Linux system administration and hardening
+. Linux system administration and hardening
 
-Cloud monitoring, incident response, and vulnerability remediation
+. Cloud monitoring, incident response, and vulnerability remediation
 
 ## Portfolio projects
 | Project | What it shows | Status |
