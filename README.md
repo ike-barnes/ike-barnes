@@ -1,7 +1,7 @@
 
 # Hi, I'm Isaac J. Barnes 👋
 
-### Engineer | Cloud Security | DevSecOps | Terraform | Python | Linux
+### Engineer | AWS Cloud Engineer | Cloud Security | DevSecOps | Terraform | Python | Linux
 
 I'm an AWS Cloud Engineer with 8+ years of experience in cloud infrastructure, security automation, systems administration, and DevSecOps across enterprise and regulated environments.
 
